@@ -1,3 +1,4 @@
+/* eslint-disable */
 // https://github.com/jalaali/moment-jalaali
 // https://github.com/alibaba-aero/jalaliday
 // https://github.com/BaseMax/gregorian_to_jalali/blob/main/gregorian_to_jalali.js
